@@ -22,7 +22,7 @@ some tags for search:
 
 - Hackintosh Opencore intel core i5-11th gen 
 
-# Success Install Other This Repo
+# Screenshots
 
 ![alt text](https://github.com/mosesmakaka/Lenovo-IdeaPad3-11thGenIntel-Opencore-Bootloader/blob/main/Screenshot%202023-09-03%20at%204.16.48%E2%80%AFPM.png?raw=true)
 
